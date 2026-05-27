@@ -191,34 +191,6 @@ streamlit run app/streamlit_app.py
 - VS Code
 - GitHub
 
-## Estrutura do Projeto
-
-orbitrisk-vision/
-├── app/
-│   └── streamlit_app.py
-├── dataset/
-│   ├── train/
-│   ├── val/
-│   └── test/
-├── models/
-│   ├── cnn_simples.keras
-│   └── cnn_profunda.keras
-├── results/
-│   ├── accuracy_cnn_simples.png
-│   ├── loss_cnn_simples.png
-│   ├── accuracy_cnn_profunda.png
-│   ├── loss_cnn_profunda.png
-│   ├── matriz_confusao_cnn_simples.png
-│   └── matriz_confusao_cnn_profunda.png
-├── src/
-│   ├── models.py
-│   ├── organizar_dataset.py
-│   ├── train.py
-│   ├── evaluate.py
-│   └── predict.py
-├── requirements.txt
-└── README.md
-
 ## Conclusão
 
 O projeto demonstrou a aplicação prática de Visão Computacional no contexto da Indústria Espacial, utilizando imagens satelitais para classificação de uso do solo.
