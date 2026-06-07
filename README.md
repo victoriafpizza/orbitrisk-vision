@@ -2,9 +2,10 @@
 
 Projeto desenvolvido para a Global Solution, na disciplina de Computer Vision.
 
-## Integrante
+## Integrantes
 
 - Victoria Franceschini Pizza — RM550609
+- Lourenzo Ramos - RM99951
 
 ## Descrição do Projeto
 
